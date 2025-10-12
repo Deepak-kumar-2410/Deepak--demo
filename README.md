@@ -1,6 +1,6 @@
 # Deepak--demo
 This is my first git repository .
 <br>
-author - deepak kumar
+author - deepak kumar (s)
 <br>
 welcome back
